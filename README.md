@@ -42,3 +42,11 @@ Add Bar chart, Pie chart, Column chart, Cards, Matrix chart, Donut chart etc
 
 ## Conclusion:
 Analyzed employee data to identify trends and insights using Power Query and DAX in Power BI. Created an interactive dashboard to track employee turnover and reasons for attrition. Discovered that salespeople are leaving the company in greater numbers due to a lower salary and stagnant hike rates. Provided visualizations and actionable insights to the HR team to address the issue and retain employees.
+
+![image](https://github.com/user-attachments/assets/6c5d8993-d11a-40dc-9da2-1a4ae048a5ca)
+
+![image](https://github.com/user-attachments/assets/b8168a7f-e3a6-4101-b2a8-e5e11c373d6a)
+
+
+![image](https://github.com/user-attachments/assets/606293e9-7d1c-4c8a-8e82-f5fdfba30f30)
+
